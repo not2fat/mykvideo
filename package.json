@@ -7,7 +7,8 @@
     "build": "next build",
     "start": "next start",
     "lint": "eslint",
-    "pages:build": "npx @cloudflare/next-on-pages@1"
+    "prebuild": "node scripts/select-sources.mjs",
+    "pages:build": "node scripts/select-sources.mjs && npx @cloudflare/next-on-pages@1"
   },
   "dependencies": {
     "@dnd-kit/core": "^6.3.1",

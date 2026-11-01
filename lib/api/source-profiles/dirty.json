@@ -1,0 +1,182 @@
+[
+  {
+    "id": "155api",
+    "name": "AV-155资源",
+    "baseUrl": "https://155api.com/api.php/provide/vod",
+    "searchPath": "",
+    "detailPath": "",
+    "enabled": true,
+    "priority": 19,
+    "group": "normal"
+  },
+  {
+    "id": "91md",
+    "name": "AV-91麻豆",
+    "baseUrl": "https://91md.me/api.php/provide/vod",
+    "searchPath": "",
+    "detailPath": "",
+    "enabled": true,
+    "priority": 49,
+    "group": "normal"
+  },
+  {
+    "id": "jkunzyapi",
+    "name": "AV-JKUN资源",
+    "baseUrl": "https://jkunzyapi.com/api.php/provide/vod",
+    "searchPath": "",
+    "detailPath": "",
+    "enabled": true,
+    "priority": 50,
+    "group": "normal"
+  },
+  {
+    "id": "souavzy",
+    "name": "AV-souav资源",
+    "baseUrl": "https://api.souavzy.vip/api.php/provide/vod",
+    "searchPath": "",
+    "detailPath": "",
+    "enabled": true,
+    "priority": 51,
+    "group": "normal"
+  },
+  {
+    "id": "lbapi9",
+    "name": "AV-乐播资源",
+    "baseUrl": "https://lbapi9.com/api.php/provide/vod",
+    "searchPath": "",
+    "detailPath": "",
+    "enabled": true,
+    "priority": 52,
+    "group": "normal"
+  },
+  {
+    "id": "aosikazy",
+    "name": "AV-奥斯卡资源",
+    "baseUrl": "https://aosikazy.com/api.php/provide/vod",
+    "searchPath": "",
+    "detailPath": "",
+    "enabled": true,
+    "priority": 53,
+    "group": "normal"
+  },
+  {
+    "id": "naixxzy",
+    "name": "AV-奶香香",
+    "baseUrl": "https://Naixxzy.com/api.php/provide/vod",
+    "searchPath": "",
+    "detailPath": "",
+    "enabled": true,
+    "priority": 54,
+    "group": "normal"
+  },
+  {
+    "id": "slapibf",
+    "name": "AV-森林资源",
+    "baseUrl": "https://slapibf.com/api.php/provide/vod",
+    "searchPath": "",
+    "detailPath": "",
+    "enabled": true,
+    "priority": 55,
+    "group": "normal"
+  },
+  {
+    "id": "xrbsp",
+    "name": "AV-淫水机资源",
+    "baseUrl": "https://www.xrbsp.com/api/json.php",
+    "searchPath": "",
+    "detailPath": "",
+    "enabled": true,
+    "priority": 56,
+    "group": "normal"
+  },
+  {
+    "id": "apiyutu",
+    "name": "AV-玉兔资源",
+    "baseUrl": "https://apiyutu.com/api.php/provide/vod",
+    "searchPath": "",
+    "detailPath": "",
+    "enabled": true,
+    "priority": 57,
+    "group": "normal"
+  },
+  {
+    "id": "fhapi9",
+    "name": "AV-番号资源",
+    "baseUrl": "http://fhapi9.com/api.php/provide/vod",
+    "searchPath": "",
+    "detailPath": "",
+    "enabled": true,
+    "priority": 58,
+    "group": "normal"
+  },
+  {
+    "id": "kxgav",
+    "name": "AV-白嫖资源",
+    "baseUrl": "https://www.kxgav.com/api/json.php",
+    "searchPath": "",
+    "detailPath": "",
+    "enabled": true,
+    "priority": 59,
+    "group": "normal"
+  },
+  {
+    "id": "jingpinx",
+    "name": "AV-精品资源",
+    "baseUrl": "https://www.jingpinx.com/api.php/provide/vod",
+    "searchPath": "",
+    "detailPath": "",
+    "enabled": true,
+    "priority": 60,
+    "group": "normal"
+  },
+  {
+    "id": "msnii",
+    "name": "AV-美少女资源",
+    "baseUrl": "https://www.msnii.com/api/json.php",
+    "searchPath": "",
+    "detailPath": "",
+    "enabled": true,
+    "priority": 61,
+    "group": "normal"
+  },
+  {
+    "id": "apilsbzy1",
+    "name": "AV-老色逼资源",
+    "baseUrl": "https://apilsbzy1.com/api.php/provide/vod",
+    "searchPath": "",
+    "detailPath": "",
+    "enabled": true,
+    "priority": 62,
+    "group": "normal"
+  },
+  {
+    "id": "apilj",
+    "name": "AV-辣椒资源",
+    "baseUrl": "https://apilj.com/api.php/provide/vod",
+    "searchPath": "",
+    "detailPath": "",
+    "enabled": true,
+    "priority": 63,
+    "group": "normal"
+  },
+  {
+    "id": "gdlsp",
+    "name": "AV-香奶儿资源",
+    "baseUrl": "https://www.gdlsp.com/api/json.php",
+    "searchPath": "",
+    "detailPath": "",
+    "enabled": true,
+    "priority": 64,
+    "group": "normal"
+  },
+  {
+    "id": "pgxdy",
+    "name": "AV-黄AV资源",
+    "baseUrl": "https://www.pgxdy.com/api/json.php",
+    "searchPath": "",
+    "detailPath": "",
+    "enabled": true,
+    "priority": 65,
+    "group": "normal"
+  }
+]
