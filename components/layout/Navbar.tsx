@@ -46,7 +46,7 @@ export function Navbar({ onReset, isPremiumMode = false }: NavbarProps) {
                         >
                             <div className="w-8 h-8 sm:w-10 sm:h-10 relative flex items-center justify-center flex-shrink-0">
                                 <Image
-                                    src="/icon.png"
+                                    src={siteConfig.icon}
                                     alt={siteConfig.name}
                                     width={40}
                                     height={40}
